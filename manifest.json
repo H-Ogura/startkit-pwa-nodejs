@@ -1,0 +1,17 @@
+{
+    "name": "Startkit-PWA",
+    "short_name": "PWA",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "description": "PWAのスタートキット",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/icon.jpg",
+            "sizes": "1000x820"
+        }
+    ]
+}
