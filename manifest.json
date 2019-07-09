@@ -5,7 +5,7 @@
     "start_url": "views/index.html",
     "icons": [
         {
-            "src": "images/icon.jpg",
+            "src": "images/image.jpg",
             "sizes": "192x192",
             "type": "image/jpg"
         }
