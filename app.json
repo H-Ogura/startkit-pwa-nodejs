@@ -1,0 +1,6 @@
+{
+    "name":"startkit-pwa-nodejs",
+    "env": {
+        "TZ":"Asia/Tokyo"
+    }
+}
