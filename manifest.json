@@ -1,6 +1,6 @@
 {
+    "name": "Startkit PWA",
     "short_name": "PWA",
-    "name": "startkit pwa",
     "display": "standalone",
     "start_url": "views/index.html",
     "icons": [
